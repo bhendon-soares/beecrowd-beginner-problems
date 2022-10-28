@@ -6,12 +6,6 @@ namespace Beecrowd
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Word kid");
-            
-            
-            
-            
-            
             //1013 - MAIOR
             //string line1 = Console.ReadLine();
             //String[] valores = line1.Split(' ');
