@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pichau\\Documents\\Programas C#\\Beecrowd\\Beecrowd\\Beecrowd.csproj": {}
+    "D:\\Projetos\\beecrowd-beginner-problems\\beecrowd-beginner-problems\\Beecrowd\\Beecrowd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pichau\\Documents\\Programas C#\\Beecrowd\\Beecrowd\\Beecrowd.csproj": {
+    "D:\\Projetos\\beecrowd-beginner-problems\\beecrowd-beginner-problems\\Beecrowd\\Beecrowd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pichau\\Documents\\Programas C#\\Beecrowd\\Beecrowd\\Beecrowd.csproj",
+        "projectUniqueName": "D:\\Projetos\\beecrowd-beginner-problems\\beecrowd-beginner-problems\\Beecrowd\\Beecrowd.csproj",
         "projectName": "Beecrowd",
-        "projectPath": "C:\\Users\\Pichau\\Documents\\Programas C#\\Beecrowd\\Beecrowd\\Beecrowd.csproj",
+        "projectPath": "D:\\Projetos\\beecrowd-beginner-problems\\beecrowd-beginner-problems\\Beecrowd\\Beecrowd.csproj",
         "packagesPath": "C:\\Users\\Pichau\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pichau\\Documents\\Programas C#\\Beecrowd\\Beecrowd\\obj\\",
+        "outputPath": "D:\\Projetos\\beecrowd-beginner-problems\\beecrowd-beginner-problems\\Beecrowd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

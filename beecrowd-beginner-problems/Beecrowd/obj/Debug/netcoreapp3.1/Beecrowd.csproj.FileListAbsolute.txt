@@ -12,3 +12,17 @@ C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1
 C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.dll
 C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.pdb
 C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.genruntimeconfig.cache
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.exe
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.deps.json
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.json
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.dev.json
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.dll
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.pdb
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csproj.AssemblyReference.cache
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfoInputs.cache
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfo.cs
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csproj.CoreCompileInputs.cache
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.dll
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.pdb
+D:\Projetos\beecrowd-beginner-problems\beecrowd-beginner-problems\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.genruntimeconfig.cache
