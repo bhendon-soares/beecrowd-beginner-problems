@@ -1,0 +1,14 @@
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.exe
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.deps.json
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.json
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.runtimeconfig.dev.json
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.dll
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\bin\Debug\netcoreapp3.1\Beecrowd.pdb
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csproj.AssemblyReference.cache
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfoInputs.cache
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.AssemblyInfo.cs
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.dll
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.pdb
+C:\Users\Pichau\Documents\Programas C#\Beecrowd\Beecrowd\obj\Debug\netcoreapp3.1\Beecrowd.genruntimeconfig.cache
