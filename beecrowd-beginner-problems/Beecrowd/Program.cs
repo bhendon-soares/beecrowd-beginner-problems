@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace Beecrowd
 {
@@ -6,6 +7,58 @@ namespace Beecrowd
     {
         static void Main(string[] args)
         {
+            //1016 - DISTANCIA
+            int distancia = int.Parse(Console.ReadLine());
+            int tempo = distancia * 2;
+            Console.WriteLine($"{tempo} minutos");
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            //1015 - DISTANCIA ENTRE DOIS PONTOS
+            //string[] x1y1 = Console.ReadLine().Split(' ');
+            //double x1 = double.Parse(x1y1[0]);
+            //double y1 = double.Parse(x1y1[1]);
+
+            //string[] x2y2 = Console.ReadLine().Split(' ');
+            //double x2 = double.Parse(x2y2[0]);
+            //double y2 = double.Parse(x2y2[1]);
+
+            //double distancia = Math.Sqrt((Math.Pow(x2 - x1, 2)) + Math.Pow(y2 - y1, 2));
+            //Console.WriteLine(distancia.ToString("F4"));
+
+
+
+
+
+
+
+
+
+
+
+
+            //1014 - CONSUMO
+            //int X = int.Parse(Console.ReadLine());
+            //double Y = double.Parse(Console.ReadLine());
+            //double consumo = X / Y;
+
+            //Console.WriteLine($"{consumo.ToString("F3")} km/l");
+
+
+
+
+
+
+
+
+
             //1013 - MAIOR
             //string line1 = Console.ReadLine();
             //String[] valores = line1.Split(' ');
