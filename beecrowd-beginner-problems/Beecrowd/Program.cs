@@ -7,20 +7,178 @@ namespace Beecrowd
     {
         static void Main(string[] args)
         {
+            double nota100, nota50, nota20, nota10, nota5, nota2, 
+                   moeda1, moeda50, moeda25, moeda10, moeda05, moeda01, resto;
+
+
+            double N = double.Parse(Console.ReadLine());
+
+            Console.WriteLine("NOTAS: ");
+            nota100 = N / 100;
+            resto = N % 100;
+            Console.WriteLine((int)nota100 +  "nota(s) de R$ 100.00");
+
+            nota50 = resto / 50;
+            resto = resto % 50;
+            Console.WriteLine((int)nota50 +  "nota(s) de R$ 50.00");
+
+            nota20 = resto / 20;
+            resto = resto % 20;
+            Console.WriteLine((int)nota20 +  "nota(s) de R$ 20.00");
+
+            nota10 = resto / 10;
+            resto = resto % 10;
+            Console.WriteLine((int)nota10 +  "nota(s) de R$ 10.00");
+
+            nota5 = resto / 5;
+            resto = resto % 5;
+            Console.WriteLine((int)nota5 +  "nota(s) de R$ 5.00");
+
+            nota2 = resto / 2;
+            resto = resto % 2;
+            Console.WriteLine((int)nota2 +  "nota(s) de R$ 2.00");
+
+
+            Console.WriteLine("MOEDAS: ");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            //int idade = int.Parse(Console.ReadLine());
+
+            //int anos, meses, dias, resto;
+
+            //anos = idade / 365;
+            //resto = idade % 365;
+            //Console.WriteLine($"{anos} ano(s)");
+
+            //meses = resto / 30;
+            //resto = resto % 30;
+            //Console.WriteLine($"{meses} mes(es)");
+
+            //dias = resto;
+            //Console.WriteLine($"{dias} dia(s)");
+
+
+
+
+
+
+
+
+
+            //int N = int.Parse(Console.ReadLine());
+            //int hora, minutos, segundos, resto;
+
+            //hora = N / 3600;
+            //resto = N % 3600;
+
+            //minutos = resto / 60;
+            //resto = resto % 60;
+
+            //segundos = resto;
+
+            //Console.WriteLine($"{hora}:{minutos}:{segundos}");
+
+
+
+
+
+
+
+
+
+
+
+            //int nota100, nota50, nota20, nota10, nota5, nota2, nota1, resto;
+
+            //int N = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine(N);
+
+            //nota100 = N / 100;
+            //resto = N % 100;
+            //Console.WriteLine($"{nota100} nota(s) de R$ 100,00");
+
+            //nota50 = resto / 50;
+            //resto = resto % 50;
+            //Console.WriteLine($"{nota50} nota(s) de R$ 50,00");
+
+            //nota20 = resto / 20;
+            //resto = resto % 20;
+            //Console.WriteLine($"{nota20} nota(s) de R$ 20,00");
+
+            //nota10 = resto / 10;
+            //resto = resto % 10;
+            //Console.WriteLine($"{nota10} nota(s) de R$ 10,00");
+
+            //nota5 = resto / 5;
+            //resto = resto % 5;
+            //Console.WriteLine($"{nota5} nota(s) de R$ 5,00");
+
+            //nota2 = resto / 2;
+            //resto = resto % 2;
+            //Console.WriteLine($"{nota2} nota(s) de R$ 2,00");
+
+            //nota1 = resto / 1;
+            //resto = resto % 1;
+            //Console.WriteLine($"{nota1} nota(s) de R$ 1,00");
+
+
+
+
+
+
+
+
+            //int tempo = int.Parse(Console.ReadLine());
+            //int velocidadeMedia = int.Parse(Console.ReadLine());
+
+            //double combustivel = (double)(tempo * velocidadeMedia) / 12;
+
+            //Console.WriteLine(combustivel.ToString("F3"));
+
+
+
+
+
+
+
+
             //1016 - DISTANCIA
-            int distancia = int.Parse(Console.ReadLine());
-            int tempo = distancia * 2;
-            Console.WriteLine($"{tempo} minutos");
-            
-            
-            
-            
-            
-            
-            
-            
-            
-            
+            //int distancia = int.Parse(Console.ReadLine());
+            //int tempo = distancia * 2;
+            //Console.WriteLine($"{tempo} minutos");
+
+
+
+
+
+
+
+
+
+
             //1015 - DISTANCIA ENTRE DOIS PONTOS
             //string[] x1y1 = Console.ReadLine().Split(' ');
             //double x1 = double.Parse(x1y1[0]);
