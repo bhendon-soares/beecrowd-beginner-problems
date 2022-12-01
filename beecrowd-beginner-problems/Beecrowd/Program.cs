@@ -63,7 +63,7 @@ namespace Beecrowd
 
 
 
-
+            //1020 - IDADE EM DIAS
             //int idade = int.Parse(Console.ReadLine());
 
             //int anos, meses, dias, resto;
@@ -87,6 +87,7 @@ namespace Beecrowd
 
 
 
+            //1019 - CONVERSÃO DE TEMPO
             //int N = int.Parse(Console.ReadLine());
             //int hora, minutos, segundos, resto;
 
@@ -109,7 +110,7 @@ namespace Beecrowd
 
 
 
-
+            //1018 - CEDULAS
             //int nota100, nota50, nota20, nota10, nota5, nota2, nota1, resto;
 
             //int N = int.Parse(Console.ReadLine());
@@ -151,6 +152,7 @@ namespace Beecrowd
 
 
 
+            //1017 - GASTO DE COMBUSTIVEL
             //int tempo = int.Parse(Console.ReadLine());
             //int velocidadeMedia = int.Parse(Console.ReadLine());
 
